@@ -8,8 +8,5 @@
   <a href="https://packagist.org/packages/laravel/framework">
     <img width="300" src="public/assets/images/project/4.png" alt="Total Downloads">
   </a>
-  <a href="https://packagist.org/packages/laravel/framework">
-    <img width="300" src="public/assets/images/project/5.png" alt="Latest Stable Version">
-  </a>
 </p>
 
