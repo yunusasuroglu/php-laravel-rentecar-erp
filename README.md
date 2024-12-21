@@ -2,7 +2,7 @@
 
 ## Company Dashboard
 
-<img src="public/assets/images/project/3.png" width="400" height="300">
-<img src="public/assets/images/project/4.png" width="400" height="300">
-<img src="public/assets/images/project/5.png" width="400" height="300">
+<img src="public/assets/images/project/3.png" width="400">
+<img src="public/assets/images/project/4.png" width="400">
+<img src="public/assets/images/project/5.png" width="400">
 
