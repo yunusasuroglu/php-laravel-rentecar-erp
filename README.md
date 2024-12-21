@@ -26,10 +26,29 @@ super admin control panel: from this panel you can manage multi-language managem
 
 ## Modules
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- Multi Company Module.
+- Multi User Module.
+- Multi Roles and Permissions Module.
+- Multi Language Module.
+- Bulk Emailler Module.
+- Stripe Payment Module.
+- Calender Module
+- Reservation Module
+- Customer Management Module
+- Invoices Module
+
+## Requirements
+
+- PHP 8.0 or above
+- Composer
+
+## Contribute
+
+1. Fork this project.
+2. Create a new feature branch (`feature/feature-adi`).
+3. Commit your changes (`git commit -m 'New feature added'`).
+4. Push the branch to master (`git push origin feature/feature-adi`).
+5. Open a Pull Request.
+
+## Licence
+This project is licensed under the [MIT License](LICENSE).
