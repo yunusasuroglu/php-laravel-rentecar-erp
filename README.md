@@ -5,11 +5,11 @@
 Dashboard used by companies with multiple company modules. You can access all links on the dashboard from the side menu.
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://github.com/laravel/framework/actions">
-    <img width="300" src="public/assets/images/project/3.png" alt="Build Status">
+  <a href="https://github.com/yunusasuroglu">
+    <img width="300" src="public/assets/images/project/3.png" alt="Dashboard">
   </a>
-  <a href="https://packagist.org/packages/laravel/framework">
-    <img width="300" src="public/assets/images/project/4.png" alt="Total Downloads">
+  <a href="https://github.com/yunusasuroglu">
+    <img width="300" src="public/assets/images/project/4.png" alt="Dashboard Api Settings">
   </a>
 </p>
 
