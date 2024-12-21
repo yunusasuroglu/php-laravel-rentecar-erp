@@ -3,13 +3,13 @@
 ## Company Dashboard
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://github.com/laravel/framework/actions">
-    <img width="500" src="public/assets/images/project/3.png" alt="Build Status">
+    <img width="300" src="public/assets/images/project/3.png" alt="Build Status">
   </a>
   <a href="https://packagist.org/packages/laravel/framework">
-    <img width="500" src="public/assets/images/project/4.png" alt="Total Downloads">
+    <img width="300" src="public/assets/images/project/4.png" alt="Total Downloads">
   </a>
   <a href="https://packagist.org/packages/laravel/framework">
-    <img width="500" src="public/assets/images/project/5.png" alt="Latest Stable Version">
+    <img width="300" src="public/assets/images/project/5.png" alt="Latest Stable Version">
   </a>
 </p>
 
