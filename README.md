@@ -2,7 +2,7 @@
 
 ## Company Dashboard
 
-Dashboard used by companies with multiple company modules. You can access all links on the dashboard from the side menu.
+Dashboard used by companies with more than one company module. You can access all the links in the dashboard from the side menu. You can use all the modules required for vehicle management, customer management, contract management and car rental companies from this panel.
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://github.com/yunusasuroglu">
@@ -16,7 +16,7 @@ Dashboard used by companies with multiple company modules. You can access all li
 
 ## Super Admin Dashboard
 
-super admin control panel: from this panel you can manage multi-language management, multi-company management, multi-user management, multi-role and permission management and software settings.
+Super Admin control panel: from this panel you can manage multi-language management, multi-company management, multi-user management, multi-role and permission management and software settings.
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://github.com/laravel/framework/actions">
