@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="public/assets/images/systems-logo/logo-dark.png" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://github.com/yunusasuroglu/" target="_blank"><img src="public/assets/images/systems-logo/logo-dark.png" width="400" alt="Laravel Logo"></a></p>
 
 ## Company Dashboard
 
@@ -19,7 +19,7 @@ Dashboard used by companies with more than one company module. You can access al
 Super Admin control panel: from this panel you can manage multi-language management, multi-company management, multi-user management, multi-role and permission management and software settings.
 
 <p align="center" style="display: flex; justify-content: center; gap: 50px;">
-  <a href="https://github.com/laravel/framework/actions">
+  <a href="https://github.com/yunusasuroglu/">
     <img width="300" src="public/assets/images/project/2.png" alt="Super Admin Dashboard">
   </a>
   <a href="https://github.com/yunusasuroglu">
